@@ -1,2 +1,3 @@
 # Guardian-of-Azeroth
-An archive of lore from the Warcraft universe
+
+A narrative quest through Azeroth and beyond and an archive of lore!
