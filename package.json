@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/HonorableAnomaly/Guardian-of-Azeroth/issues"
   },
-  "homepage": "https://github.com/HonorableAnomaly/Guardian-of-Azeroth#readme"
+  "homepage": "https://github.com/HonorableAnomaly/Guardian-of-Azeroth#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.3",
+    "joi": "^17.6.0",
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15"
+  }
 }
